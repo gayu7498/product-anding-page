@@ -338,6 +338,10 @@ input {
         display: block;
      
     }
+    #video{
+        width:350px;
+        height:300px;
+    }
 
     .user-details {
         margin-top: 180px;
